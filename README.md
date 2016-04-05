@@ -1,1 +1,3 @@
 # java_examples
+
+Trying out Git commands & usage...
